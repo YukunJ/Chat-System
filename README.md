@@ -13,3 +13,5 @@ Brief description:
 3.concatenated a game &lt;Gluttonous Snake> to the chat system GUI.
 
 For more detailed description, please see project documentation & design instructions
+
+Also for video presentation, please check: https://www.youtube.com/watch?v=nOf_oYMmmk0&feature=youtu.be
