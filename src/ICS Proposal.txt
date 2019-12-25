@@ -1,0 +1,11 @@
+ICS 2019 Spring Final-Project Proposal
+
+Team members: 
+             (1) Jiang, Yukun (netid: jy2363)
+
+             (2) Shu, Yue (netid: ys3062)
+
+Topics:
+     (1) Plan to design a GUI interface to the chat system
+     (2) Along with the GUI interface, also plan to extend the chat system with a self-game functionality (game type depends) 
+     (*) If time permits, may potentially include other features such as secure messaging, or some funny things on the GUI like file transport, background music or emoji😢😊
