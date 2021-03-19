@@ -1,4 +1,4 @@
-# Chat_System_Spring2019_Project
+# Chat System Spring2019
 This is the Chat System project done in class &lt;Introduction to Computer Science> at NYU Shanghai Spring 2019, when I was a sophomore undergrad.
 
 Team member: Yukun, Jiang & Yue, Shu
