@@ -14,4 +14,6 @@ Brief description:
 
 For more detailed description, please see project documentation & design instructions
 
-Also for video presentation, please check: https://www.youtube.com/watch?v=nOf_oYMmmk0&feature=youtu.be
+Also for video presentation, please check: https://www.youtube.com/watch?v=nOf_oYMmmk0&feature=youtu.be 
+
+Feel free to email me at jy2363@nyu.edu for any more information
